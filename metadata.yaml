@@ -1,0 +1,28 @@
+_repo: With-Methuen-s-Column-on-an-Ambulance-Train_15520
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Ernest Nathaniel, Sir
+    alias: Bennett, Ernest N.
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '6102'
+    url: http://www.gutenberg.org/2009/agents/6102
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Red Cross and Red Crescent'
+- !lcsh 'South African War, 1899-1902 -- Hospitals, charities, etc.'
+- !lcc 'DT'
+title: With Methuen's Column on an Ambulance Train
+url: http://www.gutenberg.org/ebooks/15520
